@@ -114,3 +114,17 @@ debate-transcripts/
 ├── .gitignore
 └── README.md
 ```
+
+## Credits
+
+Hebrew ASR provided by [ivrit.ai](https://ivrit.ai). If you use this project in academic work, please cite:
+
+```bibtex
+@inproceedings{marmor2025building,
+  title={Building an Accurate Open-Source Hebrew ASR System through Crowdsourcing},
+  author={Marmor, Yanir and Lifshitz, Yair and Snapir, Yoad and Misgav, Kinneret},
+  booktitle={Proc. Interspeech 2025},
+  pages={723--727},
+  year={2025}
+}
+```

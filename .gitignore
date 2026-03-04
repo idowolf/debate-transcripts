@@ -1,6 +1,9 @@
 # Environment
 .env
 
+# Intermediate artifacts (old location — kept for safety)
+transcripts/
+
 # Intermediate artifacts
 tmp/*
 !tmp/.gitkeep
